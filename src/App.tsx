@@ -71,8 +71,14 @@ function App() {
 
       {/* Hero Section */}
       <section className="min-h-screen flex items-center justify-center px-4 sm:px-6 lg:px-8 bg-white">
-        <div className="text-center max-w-5xl">
-          <p className="text-lg text-gray-600 mb-8 font-medium">Rwanda Human-Centered AI Research Lab</p>
+      <div className="text-center max-w-5xl">
+    <div className="mb-8">
+      <img 
+        src="/image copy.png" 
+        alt="Rwanda AI Research Lab" 
+        className="h-40 w-40 mx-auto" 
+      />
+    </div>
           <div className="mb-12">
             <div className="text-8xl md:text-9xl font-black tracking-tight leading-none">
               <span className="text-gray-900">Rene</span>
